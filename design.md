@@ -151,7 +151,7 @@ __Once you are ready with your poster, or when you are just curious to see it as
 
 __If you have any questions on using `InDesign`, feel free to email `gndaskalova@gmail.com`.__ 
 
-##Happy poster making!
+## Happy poster making!
 
 ## Examples of materials created using `InDesign`
 
