@@ -33,7 +33,7 @@ Above you can see an A4 poster from last year's Geoscience Outreach course at di
 
 <a name="layout"></a>
 
-### Poster layout
+## Poster layout
 As part of your assessment for the Geoscience Outreach course, you have to prepare an A4 poster (worth 5% of your overall mark) that communicates the key messages of your project through visual means in an engaging way. The posters will be used to make a booklet showcasing all the projects from your year, and will be printed and hung up for the end of the year celebration at the ECCI.
 
 __NOTE: Even though they are called an A4 poster, I would strongly advise you to make them bigger, e.g. A3. For the end of the year celebration, the posters will be printed as A3, and you might want to print out a larger copy for your own promotion of the project. You can always make something big small, going from small to big is way more problematic, and it would be a shame if your cool diagrams and photos end up blurry.__
@@ -42,7 +42,7 @@ We will be using `Adobe InDesign`, which is available on all [uCreate](http://ww
 
 Where `InDesign` shines is making sure all your images, boxes and text are arranged nicely, with consistent spacing, even sizes, etc. That's achieved by following a layout - and you have the freedom to make any layout you want, or use one of the layouts I prepared. There are no set rules for your poster, and great posters come in all shapes and colours (but not all colours at the same time!), so please don't interpret this workshop as "You must make a poster like this to get a good mark", rather the aim of the workshop is to give you the opportunity to practice using `InDesign`, so that you can take full advantage of your creativity and imagination.
 
-#### Making your layout
+### Making your layout
 
 Open `InDesign` and make a new file following `File / New / Document` and select `A3` as the paper size. Here's your new document:
 
@@ -54,7 +54,7 @@ __Click on `Layout / Create guides` to split your page into different sections. 
 
 <center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/guides.png?raw=true" alt="Img" style="width: 1100px;"/></center>
 
-#### Flow & outline
+### Flow & outline
 
 With our guides in place, we can now starting drawing boxes (or other shapes) - the way `InDesign` works is that you first create all the shapes, and then you `place` your content in. This makes it very easy to swap photos and try out different content later on, and you don't have to start from scratch everytime you change your mind.
 
@@ -70,14 +70,14 @@ __You can download sample layouts below by clicling on an image of your choice. 
 
 <center><a href="https://drive.google.com/file/d/0B7duAbUBUVBubnQzWDRjeENvYVk/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout4.png?raw=true" alt="Img" style="width: 200px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuaUhyRFJqRU5qbzg/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout5.png?raw=true" alt="Img" style="width: 200px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuY0dFcE1FLVRHTUk/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout6.png?raw=true" alt="Img" style="width: 200px;"/></a></center>
 
-#### Colour scheme
+### Colour scheme
 It's time to think about colours! Picking a colour scheme for your project in general is a great idea - using consistent colours in your presentations, any materials you create, and your poster will make you look professional. You can use the [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/) to pick a colour scheme. I personally like strong contrasting colours complemented by a few grey shades, but that's just my preference. Avoid reds and greens together as they will appear the same to colour blind people.
 
 __The most recent [Living Planet Index Summary Report](https://www.wwf.org.uk/sites/default/files/2016-10/LPR_2016_summary_spread%20low%20res.pdf?_ga=1.237693827.2045325321.1490656560) outlines biodiversity changes in the last few decades, and also has a pretty nice design.__ You can quickly take a look through it for some colour / graphic design inspiration. An easy way to find a winning colour scheme is to find a logo / website / brochure / etc. you like and see what colours they are using. You can also pick colours based on the photos you want to include in the poster. You could either use `Photoshop` to open the image and get the `RGB` values using the `Colourpicker` tool, or you could do it with free software online. On this [website](http://html-color-codes.info/colors-from-image/) you can upload an image, click anywhere on it, and get the `HTML` code. `InDesign` unfortunately doesn't work with `HTML` codes, but you can easily get the `RGB` values for your chosen colour from the same website by going to `Colour Tools / Colourpicker`.
 
 __Once you've chosen your colours, write down the RGB values for them somewhere, as that'll make it easier to input them in `InDesign` later.__
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/colourpicker.png?raw=true" alt="Img" style="height:450px;"/>  <img src="https://github.com/gndaskalova/outreach-design/blob/master/img/colourpicker2.png?raw=true" alt="Img" style="height:450px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/colourpicker.png?raw=true" alt="Img" style="height:300px;"/>  <img src="https://github.com/gndaskalova/outreach-design/blob/master/img/colourpicker2.png?raw=true" alt="Img" style="height:300px;"/></center>
 
 __Here are a few nice colours (in most cases five colours would be too much for a small poster, but just to give you more choice):__
 <center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/swatch1.jpg?raw=true" alt="Img" style="width:700px;"/></center>
@@ -88,7 +88,7 @@ __Here are a few nice colours (in most cases five colours would be too much for 
 
 <a name="visual"></a>
 
-### Visual content
+## Visual content
 
 __Now is a good time to add colour to our poster - you can do this by either drawing shapes using the `Rectangle / Ellipse / Polygon tool` and changing the fill colour, or by just changing the fill colour on all the boxes we've made. Select the object (shape, frame or text box) and navigate to the fill icon. Double click on it to open the colour menu, otherwise from the dropdown menu you can only see very few colours. Add in the `RGB` values for the colour you want or just pick one from the colour gradient there. Below the fill icon is the border icon, so you can add borders if you want to.__
 
@@ -96,11 +96,11 @@ __Now is a good time to add colour to our poster - you can do this by either dra
 
 After some quick filling, here is a sample layout:
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/sample.png?raw=true" alt="Img" style="width:700px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/sample.png?raw=true" alt="Img" style="width:450px;"/></center>
 
 A handy feature is that you can pick up the attributes of one object and transfer them to another. To do that, select an object, click on the `Eyedropper` tool in the left sidebar and then click on the object whose attributes (e.g. colour) you would like to transfer to the first object.
 
-#### Photos
+### Photos
 
 Photos from your project would make a great addition to your poster. Choose sharp meaningful photos - better to have a couple of photos in a larger size, as opposed to many tiny ones. Any photos and diagrams you put in will be the first thing people notice about your poster. What are the images that tell your story without words? __Make sure to give credit to the person who took the photos.__
 
@@ -108,9 +108,9 @@ It's time to fill up all those boxes we made! First, select `View / Display Perf
 
 __Note that your images will almost always be bigger than the box you made for them - e.g. here I placed a photo of a siskin and at first you can't even see the bird! Click at the centre of the frame where a faded out circle appear - then you can see the dimensions of your image and you can drag the corners to resize it. Hold `Shift` while resizing to keep the aspect ratio the same. And the siskin appears! You can see the dimensions of the photo in the yellow lines, and then it's only the bits of the photo that are in the frame that are actually visible. So frames can act as a cropping tool.__
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/place1.png?raw=true" alt="Img" style="height:450px;"/>  <img src="https://github.com/gndaskalova/outreach-design/blob/master/img/place2.png?raw=true" alt="Img" style="height:450px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/place1.png?raw=true" alt="Img" style="height:200px;"/>  <img src="https://github.com/gndaskalova/outreach-design/blob/master/img/place2.png?raw=true" alt="Img" style="height:200px;"/></center>
 
-#### Diagrams
+### Diagrams
 
 Probably the most common mistake when making posters is having too much text. Boxes of text could be replaced by a diagram - think about what are the main concepts of your project and how they link with one another. You can make the diagram in `InDesign` or another software, and then place it onto your `InDesign` file. Diagrams made up of many components can be annoying to move or resize. In terms of moving, you can select the `Selection` tool, left click and then drag over an area to select all objects within it. Then you can move them all at once. In terms of resizing, saving the whole diagram as one image and then resizing that is easier, but might lead to som quality loss. Alternatively you can still select all components, hold `Shift`, resize, and then reorder the diagram again since the resizing usually leads to things being placed in awkward places.
 
@@ -118,7 +118,7 @@ Here is a sample diagram outlining the aims of [Coding Club](https://ourcodingcl
 
 <center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/Coding%20Club%20Benefits2.jpg?raw=true" alt="Img" style="width:700px;"/></center>
 
-#### Icons
+### Icons
 
 Using custom icons can make your poster stand out, and they can look very fancy especially if they are following your colour scheme! You can turn any photo or drawing into an icon using `Adobe Illustrator` [(here is an intro tutorial)](https://design.tutsplus.com/tutorials/quick-tip-creating-simple-icons-with-adobe-illustrator-a-beginners-guide--vector-5633), or alternatively __you could check out the [cool website for the Noun Project](https://thenounproject.com/) that has thousands of icons you can use through the Creative Commons Licence.__ Registering is very quick and easy (you can also log in through facebook). You can search by keywords related to your project. Afterwards you can download `.png` or `.svg` files by clicking on `Download / Creative Commons`. Once the download is done, you can copy the message that comes up to give credit to the person who made it.
 
@@ -128,21 +128,21 @@ Here are a few cute icons that caught my eye when I opened the website (Nut by B
 
 <a name="text"></a>
 
-### Text
+## Text
 
 Avoid the temptation to write long paragraphs / copy text over from your project report - for a poster, you most likely don't need more than a couple of full sentences (if any) and the rest can go into pithy bullet points. It looks nicer if bullet points don't go over on a second line, and your lists are a consistent length. Lists of uneven numbers (3 being optimal) look good.
 
-#### Key messages
+### Key messages
 
 What are the key messages of your project? Do they come through, or are they hidden among a bunch of other text? Once you have your text ready, you can use the `Type tool` to draw text boxes and paste your text in. A cool feature is being able to adjust the margins of your text box, thus creating a bit of air around your text - you wouldn't want it to be crammed. Select a text box and go to `Object / Text frame options` and adjust the `Inset spacing` as needed.
 
-#### Fonts & typefaces
+### Fonts & typefaces
 
 Avoid text that has a small font size - instead go for less, but bigger and punchier text. Once you have selected some text, you have the usual text options just below the `InDesign` menu. Avoid using more than two different fonts and stick to the ones that are easier to read.
 
 <center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/text.png?raw=true" alt="Img" style="width:700px;"/></center>
 
-### Exporting files
+## Exporting files
 
 Remember to save your `.indd` (`InDesign` file format) file often! That way you can always go back and change images, fonts, colours, etc., without having to start all over again.
 
@@ -150,19 +150,19 @@ __Once you are ready with your poster, or when you are just curious to see it as
 
 __If you have any questions on using `InDesign`, feel free to email `gndaskalova@gmail.com`. Happy poster making!__
 
-### Examples of materials created using `InDesign`
+## Examples of materials created using `InDesign`
 
 <center><img class="alignnone size-medium wp-image-432" src="https://trinitygardeningclub.files.wordpress.com/2016/02/cover.png?w=212" alt="Cover" width="212" height="300" /></center>
 <center><a href="https://drive.google.com/file/d/0B7duAbUBUVBua1dvUVF2ZHV1STA/view?usp=sharing">"A Teacher's Guide to Gardening in Schools" - a booklet</a></center>
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/veg.png?raw=true" alt="Img" style="height:432px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/veg.png?raw=true" alt="Img" style="height:300px;"/></center>
 <center><a href="https://drive.google.com/open?id=0B7duAbUBUVBuVDBSaDhNbWJ6Um8"> A guide to fruits and vegetables that grow well in Scotland</a></center>
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/ecology.png?raw=true" alt="Img" style="height:432px;"/></center>
-<a href="https://drive.google.com/open?id=0B7duAbUBUVBuSWxxREVWSGNNbU0"> BSc Ecological and Environmental Sciences Class of 2016</a>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/ecology.png?raw=true" alt="Img" style="height:300px;"/></center>
+<center><a href="https://drive.google.com/open?id=0B7duAbUBUVBuSWxxREVWSGNNbU0"> BSc Ecological and Environmental Sciences Class of 2016</a></center>
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/wallaby.png?raw=true" alt="Img" style="height:432px;"/></center>
-<a href="https://drive.google.com/open?id=0B7duAbUBUVBuZ0JrcDhZMVl5cjA"> Opinion piece for the Conservation Science course</a>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/wallaby.png?raw=true" alt="Img" style="height:300px;"/></center>
+<center><a href="https://drive.google.com/open?id=0B7duAbUBUVBuZ0JrcDhZMVl5cjA"> Opinion piece for the Conservation Science course</a></center>
 
-<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/promo.png?raw=true" alt="Img" style="height:432px;"/></center>
-<a href="https://drive.google.com/open?id=0B7duAbUBUVBuQVdpMzVlako4Szg"> Promotional poster for the Trinity Gardening Club </a>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/promo.png?raw=true" alt="Img" style="height:300px;"/></center>
+<center><a href="https://drive.google.com/open?id=0B7duAbUBUVBuQVdpMzVlako4Szg"> Promotional poster for the Trinity Gardening Club </a></center>
