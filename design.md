@@ -5,13 +5,17 @@ date: '29th March 2017'
 output: html_document
 ---
 
+# Geoscience Outreach Graphic Design Workshop
+### By Gergana Daskalova
+### 29th March 2017
+
 <div class="block">
 	<center>
-		<img src="{{ site.baseurl }}/outreach-design/img/outline.png" alt="Img">
+		<img src="https://raw.githubusercontent.com/gndaskalova/outreach-design/master/img/outline.png" alt="Img">
 	</center>
 </div>
 
-## Workshop aims: test 2
+## Workshop aims:
 
 ### <a href="#layout"> 1. Designing a good layout for your poster </a>
 
