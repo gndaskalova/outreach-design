@@ -149,7 +149,9 @@ Remember to save your `.indd` (`InDesign` file format) file often! That way you 
 
 __Once you are ready with your poster, or when you are just curious to see it as a `.pdf`, click on `File / Export`, enter a filename and then in the menu that pops up, you can choose the resolution - I usually go for `Lossless compression` and `300 dpi` for the resolution.__
 
-__If you have any questions on using `InDesign`, feel free to email `gndaskalova@gmail.com`. Happy poster making!__
+__If you have any questions on using `InDesign`, feel free to email `gndaskalova@gmail.com`.__ 
+
+##Happy poster making!
 
 ## Examples of materials created using `InDesign`
 
