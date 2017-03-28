@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
+---
+title: "Geoscience Outreach Graphic Design Workshop"
+author: "Gergana Daskalova"
+date: '29th March 2017'
+output: html_document
+---
 
-You can use the [editor on GitHub](https://github.com/gndaskalova/outreach-design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div class="block">
+	<center>
+		<img src="{{ site.baseurl }}/outreach-design/img/outline.png" alt="Img">
+	</center>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Workshop aims:
 
-### Markdown
+### <a href="#layout"> 1. Designing a good layout for your poster </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### <a href="#visual"> 2. Letting your visual content shine </a>
 
-```markdown
-Syntax highlighted code block
+### <a href="#text"> 3. Using text effectively </a>
 
-# Header 1
-## Header 2
-### Header 3
+## The poster beautification journey
 
-- Bulleted
-- List
+<center><img src="{{ site.baseurl }}/outreach-design/img/journey.jpg" alt="Img" style="width: 1100px;"/></center>
 
-1. Numbered
-2. List
+Making a poster (or any kind of visual material) is a fun process of editing and continuous improvements - you make a poster, get feedback on it from your peers and friends, and then the beautification journey begins! If it weren't for deadlines, that journey might never end - it might seem like there is always something to improve, and it's very easy to get carried away tweaking little things. Through this workshop we'll hopefully see that it's possible to make the foundation of a great poster in a couple of hours. Above you can see an A4 poster from last year's Geoscience Outreach course at different stages - the middle is what I submitted, and the other two versions I made for the purpose of the workshop. I resisted the temptation to make a completely new one, though if I were taking the course again, I would break the flow of my poster and make it more dynamic, as opposed to the strictly symmetrical boxes, I would use nicer icons as opposed to bullet points, and my diagram would have less text. You can view `.pdf` files of different versions here: [bad](https://drive.google.com/file/d/0B7duAbUBUVBuVl9pSmxSaGdybFU/view?usp=sharing), [good](https://drive.google.com/file/d/0B7duAbUBUVBuRzdLQW9ZMkFaWUE/view?usp=sharing), [better](https://drive.google.com/file/d/0B7duAbUBUVBuSW1DNllwMEExUHc/view?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
+<a name="layout"></a>
 
-[Link](url) and ![Image](src)
-```
+### Poster layout
+As part of your assessment for the Geoscience Outreach course, you have to prepare an A4 poster (worth 5% of your overall mark) that communicates the key messages of your project through visual means in an engaging way. The posters will be used to make a booklet showcasing all the projects from your year, and will be printed and hung up for the end of the year celebration at the ECCI.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+__ NOTE: Even though they are called an A4 poster, I would strongly advise you to make them bigger, e.g. A3. For the end of the year celebration, the posters will be printed as A3, and you might want to print out a larger copy for your own promotion of the project. You can always make something big small, going from small to big is way more problematic, and it would be a shame if your cool diagrams and photos end up blurry.__
 
-### Jekyll Themes
+We will be using `Adobe InDesign`, which is available on all [uCreate](http://www.ed.ac.uk/information-services/help-consultancy/ucreate/facilities) computers at KB and the main campus, and you can also download a free 30-day trial [here.]( https://creative.adobe.com/products/download/indesign) You could also use `Powerpoint` or `Inkscape` [(free to download from here)](https://inkscape.org/en/) to make your poster. `Adobe InDesign` is used specifically to prepare visual materials for publication (posters, magazine covers, leaflets, etc.), and learning how to use the main functions doesn't take long. To create your poster, you will mainly be using the `Rectangle Frame tool` to draw the boxes where you will place images, the `Rectangle / Eclipse / Polygon` tool to draw different shapes, and the `Type tool` to add in your text.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gndaskalova/outreach-design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Where `InDesign` shines is making sure all your images, boxes and text are arranged nicely, with consistent spacing, even sizes, etc. That's achieved by following a layout - and you have the freedom to make any layout you want, or use one of the layouts I prepared. There are no set rules for your poster, and great posters come in all shapes and colours (but not all colours at the same time!), so please don't interpret this workshop as "You must make a poster like this to get a good mark", rather the aim of the workshop is to give you the opportunity to practice using `InDesign`, so that you can take full advantage of your creativity and imagination.
 
-### Support or Contact
+#### Making your layout
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Open `InDesign` and make a new file following `File / New / Document` and select `A3` as the paper size. Here's your new document:
+
+<center><img src="{{ site.baseurl }}/outreach-design/img/newpage.png" alt="Img" style="width: 1100px;"/></center>
+
+Notice the pink-purple-ish rectangle within your page - those lines are your margin, set at the default size. You can use the margins as a cutoff point - you don't want to have any text or images beyond that point, since they might get cut off after printing, and in general you want your poster to have a bit of breathing space. If you want to adjust the margins, click on `Layout / Margins and columns`.
+
+__Click on `Layout / Create guides` to split your page into different sections. Make sure `Preview` is clicked, so that you can see what the guides look like before you implement them. `Gutter` refers to the spacing between the different rows and columns. You can fit the guides to the page or the margins, so you can try both and decide which works better for you. If you want to hide all of the guides (useful once all your content is in and you want to see it without all the lines), click on `View / Grids and Guides / Hide guides`. If you want to delete all guides and start again, click on `Delete all guides on spread`.__
+
+<center><img src="{{ site.baseurl }}/outreach-design/img/guides.png" alt="Img" style="width: 1100px;"/></center>
+
+#### Flow & outline
+
+With our guides in place, we can now starting drawing boxes (or other shapes) - the way `InDesign` works is that you first create all the shapes, and then you `place` your content in. This makes it very easy to swap photos and try out different content later on, and you don't have to start from scratch everytime you change your mind.
+
+What is the key content that should be included in your content? What is the logical order for it appear? Before you start placing boxes, you can quickly draft a rough outline for the different sections, so that you know how many boxes to include. You can easily alter them later, so don't worry if you change your mind. Here is a sample outline for a poster - you don't have to include the same sections.
+
+<center><img src="{{ site.baseurl }}/outreach-design/img/postoutline.png" alt="Img" style="width: 1100px;"/></center>
+
+Select the `Rectangle Frame tool` to create a few shapes on your page. It's useful to make frames for all the different subdivisions of your poster - afterwards those become additional guides - e.g. you can make text boxes that are half the size of the frame. As you're changing the size of the boxes, you'll notice that the lines change colour when they align with other objects, and rules appear to tell you whether your spacings are consistent. Just like in `Powerpoint`, objects are layered and you can change their position by selecting an object, right clicking and going to `Arrange`. `Shift + [` moves an object backward, and `Shift + ]` - forward. If you want to change the size of an object, but keep the aspect ratio (or keep the circle with equal radii), just hold `Shift` whilst dragging in or out to make the object smaller / bigger. If you're trying to move an object only a tiny bit, you might need to zoom in, which gives you more precision when changing object positions.
+
+__You can download sample layouts below by clicling on an image of your choice. Afterwards you can open the file in `InDesign`, adjust to your needs and add content.__
+
+<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBub1JQNjJrZEo5UFU/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuOVp6bEprN1lkaEE/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout2.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuSTExNHpYY1FWaGM/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout3.png" alt="Img" style="width: 350px;"/></a></center>
+
+<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBubnQzWDRjeENvYVk/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout4.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuaUhyRFJqRU5qbzg/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout5.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuY0dFcE1FLVRHTUk/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout6.png" alt="Img" style="width: 350px;"/></a></center>
+
+#### Colour scheme
+It's time to think about colours!
+
+<a name="visual"></a>
+
+### Visual content
+
+#### Photos
+
+#### Diagrams
+
+#### Icons
+
+<a name="text"></a>
+
+### Text
+
+#### Key messages
+
+#### Fonts & typefaces
+
+### Exporting files
+
+### Examples of materials created using `Adobe InDesign`
+
+<img class="alignnone size-medium wp-image-432" src="https://trinitygardeningclub.files.wordpress.com/2016/02/cover.png?w=212" alt="Cover" width="212" height="300" />
+
+<a href="https://drive.google.com/file/d/0B7duAbUBUVBua1dvUVF2ZHV1STA/view?usp=sharing">"A Teacher's Guide to Gardening in Schools" - a booklet</a>
+
+https://drive.google.com/open?id=0B7duAbUBUVBuVDBSaDhNbWJ6Um8 What to grow in Scotland
+
+https://drive.google.com/open?id=0B7duAbUBUVBuSWxxREVWSGNNbU0 Ecology people
+
+https://drive.google.com/open?id=0B7duAbUBUVBuZ0JrcDhZMVl5cjA Opinion piece
+
+https://drive.google.com/open?id=0B7duAbUBUVBuQVdpMzVlako4Szg Promo Gardening Club poster
+
+https://drive.google.com/open?id=0B7duAbUBUVBuczh4VXVGUzQ0cjQ Coding Club diagram
