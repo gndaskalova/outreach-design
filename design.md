@@ -34,7 +34,7 @@ Making a poster (or any kind of visual material) is a fun process of editing and
 ### Poster layout
 As part of your assessment for the Geoscience Outreach course, you have to prepare an A4 poster (worth 5% of your overall mark) that communicates the key messages of your project through visual means in an engaging way. The posters will be used to make a booklet showcasing all the projects from your year, and will be printed and hung up for the end of the year celebration at the ECCI.
 
-__ NOTE: Even though they are called an A4 poster, I would strongly advise you to make them bigger, e.g. A3. For the end of the year celebration, the posters will be printed as A3, and you might want to print out a larger copy for your own promotion of the project. You can always make something big small, going from small to big is way more problematic, and it would be a shame if your cool diagrams and photos end up blurry.__
+__NOTE: Even though they are called an A4 poster, I would strongly advise you to make them bigger, e.g. A3. For the end of the year celebration, the posters will be printed as A3, and you might want to print out a larger copy for your own promotion of the project. You can always make something big small, going from small to big is way more problematic, and it would be a shame if your cool diagrams and photos end up blurry.__
 
 We will be using `Adobe InDesign`, which is available on all [uCreate](http://www.ed.ac.uk/information-services/help-consultancy/ucreate/facilities) computers at KB and the main campus, and you can also download a free 30-day trial [here.]( https://creative.adobe.com/products/download/indesign) You could also use `Powerpoint` or `Inkscape` [(free to download from here)](https://inkscape.org/en/) to make your poster. `Adobe InDesign` is used specifically to prepare visual materials for publication (posters, magazine covers, leaflets, etc.), and learning how to use the main functions doesn't take long. To create your poster, you will mainly be using the `Rectangle Frame tool` to draw the boxes where you will place images, the `Rectangle / Eclipse / Polygon` tool to draw different shapes, and the `Type tool` to add in your text.
 
@@ -44,13 +44,13 @@ Where `InDesign` shines is making sure all your images, boxes and text are arran
 
 Open `InDesign` and make a new file following `File / New / Document` and select `A3` as the paper size. Here's your new document:
 
-<center><img src="{{ site.baseurl }}/outreach-design/img/newpage.png" alt="Img" style="width: 1100px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/newpage.png?raw=true" alt="Img" style="width: 1100px;"/></center>
 
 Notice the pink-purple-ish rectangle within your page - those lines are your margin, set at the default size. You can use the margins as a cutoff point - you don't want to have any text or images beyond that point, since they might get cut off after printing, and in general you want your poster to have a bit of breathing space. If you want to adjust the margins, click on `Layout / Margins and columns`.
 
 __Click on `Layout / Create guides` to split your page into different sections. Make sure `Preview` is clicked, so that you can see what the guides look like before you implement them. `Gutter` refers to the spacing between the different rows and columns. You can fit the guides to the page or the margins, so you can try both and decide which works better for you. If you want to hide all of the guides (useful once all your content is in and you want to see it without all the lines), click on `View / Grids and Guides / Hide guides`. If you want to delete all guides and start again, click on `Delete all guides on spread`.__
 
-<center><img src="{{ site.baseurl }}/outreach-design/img/guides.png" alt="Img" style="width: 1100px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/guides.png?raw=true" alt="Img" style="width: 1100px;"/></center>
 
 #### Flow & outline
 
@@ -58,15 +58,15 @@ With our guides in place, we can now starting drawing boxes (or other shapes) - 
 
 What is the key content that should be included in your content? What is the logical order for it appear? Before you start placing boxes, you can quickly draft a rough outline for the different sections, so that you know how many boxes to include. You can easily alter them later, so don't worry if you change your mind. Here is a sample outline for a poster - you don't have to include the same sections.
 
-<center><img src="{{ site.baseurl }}/outreach-design/img/postoutline.png" alt="Img" style="width: 1100px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/postoutline.png?raw=true" alt="Img" style="width: 1100px;"/></center>
 
 Select the `Rectangle Frame tool` to create a few shapes on your page. It's useful to make frames for all the different subdivisions of your poster - afterwards those become additional guides - e.g. you can make text boxes that are half the size of the frame. As you're changing the size of the boxes, you'll notice that the lines change colour when they align with other objects, and rules appear to tell you whether your spacings are consistent. Just like in `Powerpoint`, objects are layered and you can change their position by selecting an object, right clicking and going to `Arrange`. `Shift + [` moves an object backward, and `Shift + ]` - forward. If you want to change the size of an object, but keep the aspect ratio (or keep the circle with equal radii), just hold `Shift` whilst dragging in or out to make the object smaller / bigger. If you're trying to move an object only a tiny bit, you might need to zoom in, which gives you more precision when changing object positions.
 
 __You can download sample layouts below by clicling on an image of your choice. Afterwards you can open the file in `InDesign`, adjust to your needs and add content.__
 
-<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBub1JQNjJrZEo5UFU/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuOVp6bEprN1lkaEE/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout2.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuSTExNHpYY1FWaGM/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout3.png" alt="Img" style="width: 350px;"/></a></center>
+<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBub1JQNjJrZEo5UFU/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout.png?raw=true" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuOVp6bEprN1lkaEE/view?usp=sharing"><img src="" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuSTExNHpYY1FWaGM/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout3.png" alt="Img" style="width: 350px;"/></a></center>
 
-<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBubnQzWDRjeENvYVk/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout4.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuaUhyRFJqRU5qbzg/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout5.png" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuY0dFcE1FLVRHTUk/view?usp=sharing"><img src="{{ site.baseurl }}/outreach-design/img/layout6.png" alt="Img" style="width: 350px;"/></a></center>
+<center><a href="https://drive.google.com/file/d/0B7duAbUBUVBubnQzWDRjeENvYVk/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout4.png?raw=true" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuaUhyRFJqRU5qbzg/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout5.png?raw=true" alt="Img" style="width: 350px;"/></a>  <a href="https://drive.google.com/file/d/0B7duAbUBUVBuY0dFcE1FLVRHTUk/view?usp=sharing"><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/layout6.png?raw=true" alt="Img" style="width: 350px;"/></a></center>
 
 #### Colour scheme
 It's time to think about colours!
