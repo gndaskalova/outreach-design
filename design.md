@@ -25,7 +25,7 @@ output: html_document
 
 ## The poster beautification journey
 
-<center><img src="{{ site.baseurl }}/outreach-design/img/journey.jpg" alt="Img" style="width: 1100px;"/></center>
+<center><img src="https://github.com/gndaskalova/outreach-design/blob/master/img/journey.jpg?raw=true" alt="Img" style="width: 1100px;"/></center>
 
 Making a poster (or any kind of visual material) is a fun process of editing and continuous improvements - you make a poster, get feedback on it from your peers and friends, and then the beautification journey begins! If it weren't for deadlines, that journey might never end - it might seem like there is always something to improve, and it's very easy to get carried away tweaking little things. Through this workshop we'll hopefully see that it's possible to make the foundation of a great poster in a couple of hours. Above you can see an A4 poster from last year's Geoscience Outreach course at different stages - the middle is what I submitted, and the other two versions I made for the purpose of the workshop. I resisted the temptation to make a completely new one, though if I were taking the course again, I would break the flow of my poster and make it more dynamic, as opposed to the strictly symmetrical boxes, I would use nicer icons as opposed to bullet points, and my diagram would have less text. You can view `.pdf` files of different versions here: [bad](https://drive.google.com/file/d/0B7duAbUBUVBuVl9pSmxSaGdybFU/view?usp=sharing), [good](https://drive.google.com/file/d/0B7duAbUBUVBuRzdLQW9ZMkFaWUE/view?usp=sharing), [better](https://drive.google.com/file/d/0B7duAbUBUVBuSW1DNllwMEExUHc/view?usp=sharing)
 
