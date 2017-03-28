@@ -11,7 +11,7 @@ output: html_document
 	</center>
 </div>
 
-## Workshop aims:
+## Workshop aims: test 2
 
 ### <a href="#layout"> 1. Designing a good layout for your poster </a>
 
